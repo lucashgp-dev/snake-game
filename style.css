@@ -1,0 +1,24 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  
+}
+
+body {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 48px;
+  
+}
+div#score {
+    color: black;
+    text-align: center;
+    font-size: 32px;
+}
